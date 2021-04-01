@@ -1,0 +1,22 @@
+{
+    "name": "multiple_images_webgl2",
+    "version": "1.0.0",
+    "description": "",
+    "main": "_start.js",
+    "scripts": {
+        "start": "static-server . -p 8080"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/jlmgtech/multiple_images_webgl2.git"
+    },
+    "author": "",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/jlmgtech/multiple_images_webgl2/issues"
+    },
+    "homepage": "https://github.com/jlmgtech/multiple_images_webgl2#readme",
+    "dependencies": {
+        "static-server": "^2.2.1"
+    }
+}
